@@ -12,4 +12,4 @@
 - Set up a function that updated UI dynamically.
 
 ## Display of project
-![A test image](OutPut.png)
+![OutPut](https://user-images.githubusercontent.com/94718337/153699437-cba5e4a8-3c29-483d-8683-6f65f3698c35.PNG)
